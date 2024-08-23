@@ -7,3 +7,4 @@ hjhgjs zdfa
 this is nabeel commit changes
 this naval lines
 this is develop branch
+add one methos in develop branch
